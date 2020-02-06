@@ -20,6 +20,22 @@ body {
   margin: 0;
 }
 
+.watermelon {
+  font-family: "Rammetto One";
+}
+
+.starfruit {
+  font-family: "Gravitas One";
+}
+
+.persimmon {
+  font-family: Comfortaa;
+}
+
+p {
+  font-family: "Open Sans";
+}
+
 .one {
   background-color: #e97065;
 }
@@ -29,5 +45,5 @@ body {
 }
 
 .three {
-  background-color: #e97065;
+  background-color: #e86033;
 }
