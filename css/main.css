@@ -15,3 +15,19 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+.one {
+  background-color: #e97065;
+}
+
+.two {
+  background-color: #fbd25e;
+}
+
+.three {
+  background-color: #e97065;
+}
